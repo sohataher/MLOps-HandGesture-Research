@@ -1,0 +1,16 @@
+artifact_uri: file:///content/mlruns/273836282674832982/00f16b0818af41f3993dec56ca1fdb55/artifacts
+deleted_time: 1748798151156
+end_time: 1748790522491
+entry_point_name: ''
+experiment_id: '273836282674832982'
+lifecycle_stage: deleted
+run_id: 00f16b0818af41f3993dec56ca1fdb55
+run_name: SVM_Tuned
+run_uuid: 00f16b0818af41f3993dec56ca1fdb55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748790522478
+status: 4
+tags: []
+user_id: root

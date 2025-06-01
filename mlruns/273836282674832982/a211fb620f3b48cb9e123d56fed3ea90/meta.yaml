@@ -1,0 +1,16 @@
+artifact_uri: file:///content/mlruns/273836282674832982/a211fb620f3b48cb9e123d56fed3ea90/artifacts
+deleted_time: 1748798160466
+end_time: 1748790147103
+entry_point_name: ''
+experiment_id: '273836282674832982'
+lifecycle_stage: deleted
+run_id: a211fb620f3b48cb9e123d56fed3ea90
+run_name: RandomForest_Tuned
+run_uuid: a211fb620f3b48cb9e123d56fed3ea90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748790144041
+status: 4
+tags: []
+user_id: root
