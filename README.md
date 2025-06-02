@@ -17,6 +17,8 @@ Tracked using **MLflow**, each experiment logs metrics, parameters, and artifact
 | KNN           | 0.976116 | 0.976384  | 0.976116 | 0.976144 |
 | XGBoost       | **0.983645** | **0.983736**  | **0.983645** | **0.983662** |
 
+The chosen model is **XGBoost** because it achieves best metrics among all.
+
 ### 📊 Performance Comparison
 
 ![Model Comparison Graph](model_comparison_plot.png)
