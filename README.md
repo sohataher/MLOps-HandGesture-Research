@@ -24,7 +24,7 @@ Tracked using **MLflow**, each experiment logs metrics, parameters, and artifact
 ## 📂 Contents
 
 - `notebooks/` – Jupyter notebooks for training and evaluation  
-- `models/` – Saved models and label encoders  
+- `saved_models/` – Saved models and label encoders  
 - `mlruns/` – MLflow experiment tracking data  
 
 ## 🛠 Tech Stack
